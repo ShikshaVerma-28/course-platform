@@ -2,7 +2,7 @@
 
 A comprehensive, responsive educational portal designed to provide a seamless learning experience, featuring course catalogs, student dashboards, and easy navigation.
 
-![Project Preview](Screenshot%202026-06-14%20160500.png)
+![Project Preview](Screenshot%202026-06-14%20160812.png)
 
 ## ✨ Features
 * **Dynamic Course Catalog:** Explore a wide variety of subjects with an intuitive filtering and viewing system.
